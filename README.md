@@ -1,6 +1,6 @@
 # ColourJava
 
-A program to get the hexadecimal and RGB codes of a color.
+A program to get the hexadecimal and RGB codes of a colour.
 
 <p align="center">
   <img src="1.png">
